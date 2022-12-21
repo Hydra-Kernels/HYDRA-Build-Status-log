@@ -11,7 +11,7 @@ Clang Used for Performance(7.13-BB) : **Azure - Clang**
 (https://github.com/Hydra-Kernels/neutron-clang.git -b main --depth=1)
 
 
-- **My thoughts : Amit has already used a lot of DragonTc and Proton-Clang, but its time for the latest clangs** 
+- **My thoughts : Amit(@amitkv1212) has already used a lot of DragonTc and Proton-Clang, but its time for the latest clangs** 
 
 - azure clang for battery
 
