@@ -1,7 +1,7 @@
 Link to HYDRA LEVEL 7.13 Trees : 
 
-https://github.com/HarshitX97/HYDRA-LvL-7.13.git -b ext
-https://github.com/HarshitX97/HYDRA-LvL-7.13.git\
+- https://github.com/HarshitX97/HYDRA-LvL-7.13.git -b ext
+- https://github.com/HarshitX97/HYDRA-LvL-7.13.git
 
 - Clang Used for Performance(7.13-ext) : **Neutron- Ubuntu Clang**(Coz its stable for gaming, and will provide a good fps ) with blend of battery + stability
 - Clang Used for Balanced + BB (7.13-BB) : **Azure - Clang** 
