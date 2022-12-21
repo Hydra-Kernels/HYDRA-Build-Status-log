@@ -54,8 +54,8 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 - [x] CORE CHECKED
 - [x] HYDRA-EXT CHECKED
 - [x] F2FS/EXT4 Support, exFAT/NTFS supported
-- [x] all important paramaters checked & working well
-- [x] **Any Paramaters not mentioned here is already working** 
+- [x] **all other important paramaters checked & working well**
+ 
 
  
 
