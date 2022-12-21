@@ -13,9 +13,6 @@ Clang Used for Performance(7.13-BB) : **Azure - Clang**
 
 - **My thoughts : Amit(@amitkv1212) has already used a lot of DragonTc and Proton-Clang, but its time for the latest clangs** 
 
-- azure clang for battery
-
-
 
 
 Any Kernel 3 Repo Used : https://github.com/HarshitX97/AK3.git -b HYDRA
