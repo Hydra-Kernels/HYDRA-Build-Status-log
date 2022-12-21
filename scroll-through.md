@@ -55,9 +55,12 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 - [x] HYDRA-EXT CHECKED
 - [x] F2FS/EXT4 Support, exFAT/NTFS supported
 - [x] all important paramaters checked Aand working well
+- [x] **Any Paramaters not mentioned here is already working** 
 
-ANTUTU , GEEKBENCH ,THROTTLE TEST AWAITED FROM TESTERS 
+ 
 
 
 **Copyright (C) 2022 HYDRA KERNEL PROJECT **
+
+***RELEASE DATE : 2nd January 2023***
 
