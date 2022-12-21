@@ -7,7 +7,7 @@ https://github.com/HarshitX97/HYDRA-LvL-7.13.git\
 - Clang Used for Balanced + BB (7.13-BB) : **Azure - Clang** 
 
 - Clang Used : https://gitlab.com/Panchajanya1999/azure-clang.git --depth=1
-- - neutron clang (Ubuntu) for Gaming Stability
+- Neutron clang (Ubuntu) for Gaming Stability
 (https://github.com/Hydra-Kernels/neutron-clang.git -b main --depth=1)
 
 
