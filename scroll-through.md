@@ -54,6 +54,10 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 - [x] CORE CHECKED
 - [x] HYDRA-EXT CHECKED
 - [x] F2FS/EXT4 Support, exFAT/NTFS supported
+- [x] Battery Performance Checked 
+- [x] Antutu Benchmark Checked - 330541
+- [x] Antutu Temperature Changes - 1.9
+- [x] Throttle Test Checked
 - [x] **all other important paramaters checked & working well**
  
 
