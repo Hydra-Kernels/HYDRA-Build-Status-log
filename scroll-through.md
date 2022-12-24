@@ -58,6 +58,9 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 - [x] Antutu Benchmark Checked - 330541
 - [x] Antutu Temperature Changes - 1.9
 - [x] Throttle Test ThinLTO-Variant with Thermals - Tested on Pixel Experience Begonia ROM : 201,157
+- [x] Geekbench Tested (Tested by BlazerPaul)
+- [x] Single Core Score : 532 (Tested by BlazerPaul)
+- [x] Multi Core Score : 1597 (Tested by BlazerPaul)
 - [x] **all other important paramaters checked & working well**
  
 
