@@ -62,6 +62,7 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 - [x] Single Core Score : 532 (Tested by BlazerPaul)
 - [x] Multi Core Score : 1597 (Tested by BlazerPaul)
 - [x] **all other important paramaters checked & working well**
+- [x] **Testing and Build Completed in 19 days** 
  
 
  
@@ -69,5 +70,5 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 
 **Copyright (C) 2022 HYDRA KERNEL PROJECT**
 
-***RELEASE DATE : 2nd January 2023***
+***RELEASE DATE : 27th December 2022(Updated)***
 
