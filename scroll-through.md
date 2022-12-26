@@ -68,5 +68,5 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 
 **Copyright (C) 2022 HYDRA KERNEL PROJECT**
 
-***RELEASE DATE : 27th December 2022(Updated)***
+***RELEASE DATE : 26th December 2022(Updated)***
 
