@@ -5,8 +5,6 @@ Link to HYDRA LEVEL 7.13 Trees :
 
 - Clang Used : **Neutron- Ubuntu Clang**(Coz its stable for gaming, and will provide a good fps ) with blend of battery + stability
 
-
-- Clang Used : https://gitlab.com/Panchajanya1999/azure-clang.git --depth=1
 - Neutron clang (Ubuntu) for Gaming Stability
 (https://github.com/Hydra-Kernels/neutron-clang.git -b main --depth=1)
 
