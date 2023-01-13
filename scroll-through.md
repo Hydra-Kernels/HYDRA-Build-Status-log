@@ -1,17 +1,18 @@
-Link to HYDRA LEVEL 7.13 Trees : 
-
-- https://github.com/HarshitX97/HYDRA-LvL-7.13.git -b ext
-- https://github.com/HarshitX97/HYDRA-LvL-7.13.git
-
-- Clang Used : **Neutron- Ubuntu Clang**(Coz its stable for gaming, and will provide a good fps ) with blend of battery + stability
-
-- Neutron clang (Ubuntu) for Gaming Stability
-(https://github.com/Hydra-Kernels/neutron-clang.git -b main --depth=1)
+# Level 9.x BUILD INITIATED : 07-01-2023 (🚀)
 
 
-- **My thoughts : Amit(@amitkv1212) has already used a lot of DragonTc and Proton-Clang, but its time for the latest clangs** 
+Link to HYDRA LEVEL 9.13 Trees : 
 
+- [HYDRA PLUS](https://github.com/HarshitX97/HYDRA-9.x-Begonia.git)
+- [HYDRA Battery](https://github.com/HarshitX97/HYDRA-9.x-Begonia.git)
+- [HYDRA](https://github.com/HarshitX97/HYDRA-9.x-Begonia.git)
 
+- Clang Used : **To be decided**(// ) 
+
+- **My thoughts : //TBD ** 
+
+- Updated AnyKernel 3 Banner #1
+- Updated [anykernel.sh](https://github.com/HarshitX97/AK3/blob/HYDRA/anykernel.sh)
 
 Any Kernel 3 Repo Used : https://github.com/HarshitX97/AK3.git -b HYDRA
 
@@ -35,32 +36,36 @@ It was released in September 2019.
 | Camera (Front)          | 20 MP, f/2.0, 0.9µm                                                                                                            |
 
 # Status
-Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7.13.git)):
+Current state of features (from [here](https://github.com/HarshitX97/HYDRA-9.x-Begonia.git)):
 
-###  checks
-- [x] Thermals Fixed
-- [x] IQS CHECKED
-- [x] Battery Backup Checked 
-- [x] RCU Checked
-- [x] CPU STATS CHECKED
-- [x] ADB CHECKED 
-- [x] IO SCHEDULER CHECKED
-- [x] RCU CHECKED 
-- [x] GPU PERFORMING WELL - STATS CHECKED
-- [x] GOVERNERS CHECKED 
-- [x] KALI-LINUX WORKING CHECKED 
-- [x] CORE CHECKED
-- [x] HYDRA-EXT CHECKED
-- [x] F2FS/EXT4 Support, exFAT/NTFS supported
-- [x] Battery Performance Checked 
-- [x] Antutu Benchmark Checked - 330541
-- [x] Antutu Temperature Changes - 1.9
-- [x] Throttle Test ThinLTO-Variant with Thermals - Tested on Pixel Experience Begonia ROM : 201,157
-- [x] Geekbench Tested (Tested by BlazerPaul)
-- [x] Single Core Score : 532 (Tested by BlazerPaul)
-- [x] Multi Core Score : 1597 (Tested by BlazerPaul)
-- [x] **all other important paramaters checked & working well**
-- [x] **Testing and Build Completed in 19 days** 
+# BUILD STATUS : 
+- [x] Gathering Logs from previous build
+- [] Fixing Trees in Progress 
+
+###  checks : to be done 
+- [] Thermals Fixed
+- [] IQS CHECKED
+- [] Battery Backup Checked 
+- [] RCU Checked
+- [] CPU STATS CHECKED
+- [] ADB CHECKED 
+- [] IO SCHEDULER CHECKED
+- [] RCU CHECKED 
+- [] GPU PERFORMING WELL - STATS CHECKED
+- [] GOVERNERS CHECKED 
+- [] KALI-LINUX WORKING CHECKED 
+- [] CORE CHECKED
+- [] HYDRA-EXT CHECKED
+- [] F2FS/EXT4 Support, exFAT/NTFS supported
+- [] Battery Performance Checked 
+- [] Antutu Benchmark Checked - 330541
+- [] Antutu Temperature Changes - 1.9
+- [] Throttle Test ThinLTO-Variant with Thermals - Tested on Pixel Experience Begonia ROM : 201,157
+- [] Geekbench Tested (Tested by BlazerPaul)
+- [] Single Core Score : 532 (Tested by BlazerPaul)
+- [] Multi Core Score : 1597 (Tested by BlazerPaul)
+- [] **all other important paramaters checked & working well**
+- [] **Testing and Build Completed in __ days** 
  
 
  
@@ -68,5 +73,5 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-LvL-7
 
 **Copyright (C) 2022 HYDRA KERNEL PROJECT**
 
-***RELEASE DATE : 26th December 2022(Updated)***
+***RELEASE DATE : To be (Updated)***
 
