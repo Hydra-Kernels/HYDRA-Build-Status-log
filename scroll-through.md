@@ -58,12 +58,12 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-9.x-B
 - [] HYDRA-EXT CHECKED
 - [] F2FS/EXT4 Support, exFAT/NTFS supported
 - [] Battery Performance Checked 
-- [] Antutu Benchmark Checked - 330541
-- [] Antutu Temperature Changes - 1.9
-- [] Throttle Test ThinLTO-Variant with Thermals - Tested on Pixel Experience Begonia ROM : 201,157
+- [] Antutu Benchmark Checked - TBD
+- [] Antutu Temperature Changes - TBD
+- [] Throttle Test ThinLTO-Variant with Thermals - Tested on Pixel Experience Begonia ROM : TBD
 - [] Geekbench Tested (Tested by BlazerPaul)
-- [] Single Core Score : 532 (Tested by BlazerPaul)
-- [] Multi Core Score : 1597 (Tested by BlazerPaul)
+- [] Single Core Score : TBD (Tested by _)
+- [] Multi Core Score : TBD (Tested by _)
 - [] **all other important paramaters checked & working well**
 - [] **Testing and Build Completed in __ days** 
  
@@ -71,7 +71,7 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-9.x-B
  
 
 
-**Copyright (C) 2022 HYDRA KERNEL PROJECT**
+**Copyright (C) 2022-2023 HYDRA KERNEL PROJECT**
 
 ***RELEASE DATE : To be (Updated)***
 
