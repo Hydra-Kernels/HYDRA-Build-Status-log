@@ -9,10 +9,9 @@ Link to HYDRA LEVEL 9.13 Trees :
 
 - Clang Used : **To be decided**(// ) 
 
-- **My thoughts : //TBD ** 
 
-- Updated AnyKernel 3 Banner #1
 - Updated [anykernel.sh](https://github.com/HarshitX97/AK3/blob/HYDRA/anykernel.sh)
+- Updated [Banner](https://github.com/HarshitX97/AK3/blob/HYDRA/banner)
 
 Any Kernel 3 Repo Used : https://github.com/HarshitX97/AK3.git -b HYDRA
 
