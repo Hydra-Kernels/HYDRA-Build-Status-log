@@ -13,7 +13,7 @@ Link to HYDRA LEVEL 9.13 Trees :
 - Updated [anykernel.sh](https://github.com/HarshitX97/AK3/blob/HYDRA/anykernel.sh)
 - Updated [Banner](https://github.com/HarshitX97/AK3/blob/HYDRA/banner)
 
-Any Kernel 3 Repo Used : https://github.com/HarshitX97/AK3.git -b HYDRA
+[Any Kernel 3 Repo Used](https://github.com/HarshitX97/AK3.git)
 
 ______________________________________________________________________
 
@@ -68,7 +68,7 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-9.x-B
  
 
  
-
+**Testers are requested to send their user logs issues on Discord Channel of HYDRA Testers ! **
 
 **Copyright (C) 2022-2023 HYDRA KERNEL PROJECT**
 
