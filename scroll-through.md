@@ -68,7 +68,7 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-9.x-B
  
 
  
-**Testers are requested to send their user logs issues on Discord Channel of HYDRA Testers ! **
+**NOTE : Testers are requested to send their user logs issues on Discord Channel of HYDRA Testers !**
 
 **Copyright (C) 2022-2023 HYDRA KERNEL PROJECT**
 
