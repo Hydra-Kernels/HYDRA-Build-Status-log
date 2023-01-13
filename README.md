@@ -6,4 +6,4 @@ value stated by TESTERS
 Thanks to All testers for Updating here 
 
 
-(THIS IS THE BUILD LOG OD VERSION 9.X HYDRA KERNELS)
+(THIS IS THE BUILD LOG Of VERSION 9.X HYDRA KERNELS)
