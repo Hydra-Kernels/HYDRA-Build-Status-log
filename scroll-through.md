@@ -39,7 +39,7 @@ Current state of features (from [here](https://github.com/HarshitX97/HYDRA-9.x-B
 
 # BUILD STATUS : 
 - [x] Gathering Logs from previous build
-- [] Fixing Trees in Progress 
+- [x] Trees Fixed [Private Repository] 
 
 ###  checks : to be done 
 - [] Thermals Fixed
